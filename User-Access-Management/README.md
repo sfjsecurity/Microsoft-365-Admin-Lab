@@ -8,3 +8,18 @@ This section covers Microsoft 365 user lifecycle tasks including account creatio
 - Reset passwords and force password change
 - Block and unblock user sign-in
 - Delete and restore users
+
+## Screenshots
+
+
+**Active Users (Admin Center)**
+
+<br>
+
+![image](./active-users.png)
+
+**Block Sign-in (User Account)**
+
+<br>
+
+![image](./block-signin.png)
