@@ -3,7 +3,23 @@
 This section focuses on multi-factor authentication (MFA) support and identity-related access issues.
 
 ### Scenarios Practiced
-- Enable MFA / Security Defaults
-- MFA enrollment
-- Reset MFA methods
-- Recover user access after MFA lockout
+- Enabled MFA using Security Defaults
+- Supported MFA enrollment for users
+- Reset MFA authentication methods
+- Recovered user access after MFA-related lockouts
+
+## Screenshots
+
+
+**MFA authentication methods**
+
+<br>
+
+![image]()
+
+**Security defaults enabled**
+
+<br>
+
+![image](./security-defaults-enabled.png)
+
