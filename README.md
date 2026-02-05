@@ -3,10 +3,10 @@
 This lab demonstrates hands-on Microsoft 365 administration focused on identity, authentication, email support, and basic security monitoring.
 
 ## Areas Covered
-- User & Access Management
-- Authentication & MFA Support
-- Outlook & Email Administration
-- Security Alert Review
+- [User & Access Management](./User-Access-Management/)
+- [Authentication & MFA Support](./MFA-Authentication/)
+- [Outlook & Email Administration](./Outlook-Email-Administration/)
+- [Security Alert Review](./Security-Alert-Review/)
 
 ## Tools Used
 - Microsoft 365 Admin Center
