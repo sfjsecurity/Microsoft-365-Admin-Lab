@@ -3,10 +3,10 @@
 This section focuses on multi-factor authentication (MFA) support and identity-related access issues.
 
 ### Scenarios Practiced
-- Enabled MFA using Security Defaults
-- Supported MFA enrollment for users
-- Reset MFA authentication methods
-- Recovered user access after MFA-related lockouts
+- Enabled MFA using tenant-level Security Defaults
+- Supported user MFA enrollment with Microsoft Authenticator
+- Reset MFA authentication methods for locked-out users
+- Restored user access after MFA-related login issues
 
 ## Screenshots
 
@@ -15,7 +15,7 @@ This section focuses on multi-factor authentication (MFA) support and identity-r
 
 <br>
 
-![image]()
+![image](./mfa-auth-methods.png)
 
 **Security defaults enabled**
 
